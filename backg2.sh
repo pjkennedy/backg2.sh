@@ -1,6 +1,7 @@
 # Written by Patrick Kennedy
 #
-# # filename: backg2.sh
+# PREREQUISITE: apt-get install sox (for "play" command)
+# filename: backg2.sh
 
 # Change desktop backgound with backg2.sh -- images download from Unsplashed.com when internet is up; 
 # must make subdirectory structure for images to be saved. If offline, show downloaded images per menu 
