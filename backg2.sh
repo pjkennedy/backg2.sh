@@ -3,6 +3,8 @@
 # PREREQUISITE: apt-get install sox (for "play" command)
 # filename: backg2.sh
 
+# To test offline mode, simple turn off your internet WiFi or connection.
+
 # Change desktop backgound with backg2.sh -- images download from Unsplashed.com when internet is up; 
 # must make subdirectory structure for images to be saved. If offline, show downloaded images per menu 
 # control; great way to control the room's ambiance. Could be adapted into a PowerPoint type application.
